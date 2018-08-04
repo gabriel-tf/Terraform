@@ -1,18 +1,18 @@
-# Trabalho P�s DEVOPS
-Provisionamento e configura��o para infraestrutura de aplica��es web utilizando Terraform e Docker.
+# Trabalho Pós DEVOPS
+Provisionamento e configuração para infraestrutura de aplicações web utilizando Terraform e Docker.
 
-O projeto cont�m:
-- 2 servidores apache para fornecer as p�ginas est�ticas (portas 8080/8081)
+O projeto contém:
+- 2 servidores apache para fornecer as páginas estáticas (portas 8080/8081)
 - 2 servidores tomcat (porta 9090/9091)
 - 1 servidor de bando de dados Postgresql (porta 5433)
 
-## Ambiente e Configura��o
+## Ambiente e Configuração
 - Windows 10 Pro ou Enterprise
 - Instalar docker
 - Instalar terraform
-- Configurar o terraform nas vari�veis de ambiente PATH
+- Configurar o terraform nas variáveis de ambiente PATH
 
-## Execu��o
+## Execução
 - Acesse a pasta raiz do projeto
 - Abra o bash e execute os seguintes comandos:
   - terraform init
