@@ -4,7 +4,7 @@ Provisionamento e configuração para infraestrutura de aplicações web utiliza
 O projeto contém:
 - 2 servidores apache para fornecer as páginas estáticas (portas 8080/9095)
 - 2 servidores tomcat (porta 9090/9091)
-- 1 servidor de bando de dados Postgresql (porta 5433)
+- 1 servidor de banco de dados Postgresql (porta 5433)
 
 ## Ambiente e Configuração
 - Windows 10 Pro ou Enterprise
